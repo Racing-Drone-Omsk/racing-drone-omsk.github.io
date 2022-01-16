@@ -1,6 +1,4 @@
 ---
-title: fpv drone omsk фпв дрон омск
-keywords: fpv drone omsk фпв дрон омск
 layout: default
 ---
 
