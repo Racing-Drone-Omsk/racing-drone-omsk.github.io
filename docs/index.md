@@ -4,7 +4,7 @@ keywords: fpv drone omsk фпв дрон омск
 layout: default
 ---
 
-## Racing Drone Omsk
+## Racing Drone Omsk +
 Добро пожаловать на сайт омского сообщества FPV "Racing Drone Omsk".
 Тут ты сможешь узнать об омском FPV сообществе, а так же найти полезную информацию об FPV.
 
