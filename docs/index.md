@@ -21,17 +21,17 @@ FPV дрон имеет несколько режимов полета Angle, Ho
 
 #### Полезные ссылки, если ты летаешь в Velocidrone
 - Телеграм канал: ---
-- https://vdt.the23.ru/?help - сайт vdt. VTD - это velocidrone daily track, что означает - ежедневная трасса в симуляторе велосидрон. Это значит, что каждый день выбирается трасса, по которой ты можешь полетать и попасть в общий зачет, в общем соревноваться со всеми. Короче почитай на сайте.
+- [сайт vdt](https://vdt.the23.ru/?help). VTD - это velocidrone daily track, что означает - ежедневная трасса в симуляторе велосидрон. Это значит, что каждый день выбирается трасса, по которой ты можешь полетать и попасть в общий зачет, в общем соревноваться со всеми. Короче почитай на сайте.
 - Омские карты(ищи по названию):
 * zabros55race5v2 - омская заброшка
 * ktant55out - ???
 
 ### Freestyle
 Обучалки:
-- https://www.youtube.com/c/headmazta
-- https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57
-- https://youtu.be/n6RX8iI6gcQ
-- https://youtu.be/0EqJ9C8KuTQ
+- [https://www.youtube.com/c/headmazta](https://www.youtube.com/c/headmazta)
+- [https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57](https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57)
+- [https://youtu.be/n6RX8iI6gcQ](https://youtu.be/n6RX8iI6gcQ)
+- https://youtu.be/0EqJ9C8KuTQ[](https://youtu.be/0EqJ9C8KuTQ)
 
 ### Как летать в Омске
 Читай закон <сюда можно ссыль и про штрафы написать>    
@@ -39,6 +39,6 @@ FPV дрон имеет несколько режимов полета Angle, Ho
 !!!Дроны с полетным весом больше 250г нужно регистрировать.  
 
 Список сайтов с картой, где можно посмотреть где можно летать:
-- https://www.dji.com/ru/flysafe/geo-map
-- https://map.avtm.center/flight-info
-- https://pilothub.ru/airmap
+- [https://www.dji.com/ru/flysafe/geo-map](https://www.dji.com/ru/flysafe/geo-map)
+- [https://map.avtm.center/flight-info](https://map.avtm.center/flight-info)
+- [https://pilothub.ru/airmap](https://pilothub.ru/airmap)
