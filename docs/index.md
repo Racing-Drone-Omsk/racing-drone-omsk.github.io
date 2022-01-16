@@ -1,4 +1,5 @@
 ---
+title: FPV Racing Drone Omsk
 layout: default
 ---
 
