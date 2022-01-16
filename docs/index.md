@@ -4,8 +4,6 @@
 
 ## Полезные ссылки
 Группа вконтакте: ---  
-Телеграм канал: ---  
-Омская барахолка: ---  
 
 ## Для новичков
 
@@ -31,7 +29,7 @@ FPV дрон имеет несколько режимов полета Angle, Ho
 - [https://www.youtube.com/c/headmazta](https://www.youtube.com/c/headmazta)
 - [https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57](https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57)
 - [https://youtu.be/n6RX8iI6gcQ](https://youtu.be/n6RX8iI6gcQ)
-- https://youtu.be/0EqJ9C8KuTQ[](https://youtu.be/0EqJ9C8KuTQ)
+- [https://youtu.be/0EqJ9C8KuTQ](https://youtu.be/0EqJ9C8KuTQ)
 
 ### Как летать в Омске
 Читай закон <сюда можно ссыль и про штрафы написать>    
