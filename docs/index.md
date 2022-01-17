@@ -32,10 +32,10 @@ FPV дрон имеет несколько режимов полета Angle, Ho
 
 ### Freestyle
 Обучалки:
-- [https://www.youtube.com/c/headmazta](https://www.youtube.com/c/headmazta)
-- [https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57](https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57)
-- [https://youtu.be/n6RX8iI6gcQ](https://youtu.be/n6RX8iI6gcQ)
-- [https://youtu.be/0EqJ9C8KuTQ](https://youtu.be/0EqJ9C8KuTQ)
+- [Anik FPV: Элемент ROLL или БОЧКА](https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57)
+- [Rotor Riot: FPV Freestyle Tricktionary!](https://youtu.be/n6RX8iI6gcQ)
+- [Joshua Bardwell: How To 10 FPV Freestyle Tricks](https://youtu.be/0EqJ9C8KuTQ)
+- [headmazta](https://www.youtube.com/c/headmazta)
 
 ### Как летать в Омске
 Читай закон <сюда можно ссыль и про штрафы написать>    
