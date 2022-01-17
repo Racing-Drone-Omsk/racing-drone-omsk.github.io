@@ -18,7 +18,7 @@ layout: default
 
 FPV дрон имеет несколько режимов полета Angle, Horizon, Acro про них ты можешь почитать в интернете. Первые два режима могут называться по разному в разных источниках, самое главное, что в режимах Angle, Horizon квадрокоптер автоматически выравнивается по горизонту, когда стики на аппаратуре отпущены, про них ты можешь забыть - "тру пилоты" летают в Acro.
 
-На Acro ты сразу не полетишь, поэтому стоит начать тренироваться в симуляторах.  
+В Acro ты сразу не полетишь, поэтому стоит начать тренироваться в симуляторах.  
 Могу посоветовать следующие симуляторы:
 - [The DRL Simulator](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator) - не дорогой симулятор с такой себе физикой и графикой, но в нем есть отличная поэтапная обучалка, которая дас тебе постепнный рост навыков.  
 - [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/) - симулятор подороже, но в нем физика и графика лучше, есть интерестные трассы. 
@@ -46,3 +46,8 @@ FPV дрон имеет несколько режимов полета Angle, Ho
 - [https://www.dji.com/ru/flysafe/geo-map](https://www.dji.com/ru/flysafe/geo-map)
 - [https://map.avtm.center/flight-info](https://map.avtm.center/flight-info)
 - [https://pilothub.ru/airmap](https://pilothub.ru/airmap)
+
+### Где закупаться
+- [aliexpress](https://aliexpress.ru/)
+- [banggood](https://www.banggood.com/)
+- [Воздушное хобби](https://air-hobby.ru/) - тут бывает делаем заказ на всех, тогда со скидкой выходит хорошая цена
