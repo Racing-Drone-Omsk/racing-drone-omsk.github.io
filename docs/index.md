@@ -38,6 +38,7 @@ AnikFPV:
 - [Можно ли научиться FPV на компьютере? Есть ли годные симы? Обзор Симуляторов | Часть I](https://www.youtube.com/watch?v=Ngc91qWOMgM)
 - [Можно ли научиться FPV на компьютере? Есть ли годные симы? Обзор Симуляторов| Часть II](https://www.youtube.com/watch?v=6S-W28KY34c)
 Freestyle, по фристайлу смотри ссылки в разделе ниже:
+- [Учимся фристайлить. Уровень I. Элемент ROLL или БОЧКА. Тонкости и советы](https://www.youtube.com/watch?v=PPULpE2ydsY)
 - [Учимся фристайлить. Уровень I. Элемент FLIP или Переворот. Тонкости и советы](https://www.youtube.com/watch?v=8n5ufN0Dtrg)
 - [Учимся фристайлить. Уровень I. Полет в инверте и S-Split. Тонкости и советы] (https://www.youtube.com/watch?v=hk1rj17k2E0)
 
