@@ -30,12 +30,26 @@ FPV дрон имеет несколько режимов полета Angle, Ho
 * zabros55race5v2 - омская заброшка
 * ktant55out - ???
 
+#### Видео по тому, как летать
+AnikFPV:
+Полетная школа:
+- [Уроки FPV пилотирования для новчиков. Базис](https://www.youtube.com/watch?v=z90yDGDJYYo) - тут не про фристаил: как взлететь и поворачивать в акро
+- [Учимся летать по FPV! Что такое Рейты? Как не потерять коптер? Удержание высоты, флипы](https://www.youtube.com/watch?v=8l_gcdyqQPw)
+- [Можно ли научиться FPV на компьютере? Есть ли годные симы? Обзор Симуляторов | Часть I](https://www.youtube.com/watch?v=Ngc91qWOMgM)
+- [Можно ли научиться FPV на компьютере? Есть ли годные симы? Обзор Симуляторов| Часть II](https://www.youtube.com/watch?v=6S-W28KY34c)
+Freestyle, по фристайлу смотри ссылки в разделе ниже:
+- [Учимся фристайлить. Уровень I. Элемент FLIP или Переворот. Тонкости и советы](https://www.youtube.com/watch?v=8n5ufN0Dtrg)
+- [Учимся фристайлить. Уровень I. Полет в инверте и S-Split. Тонкости и советы] (https://www.youtube.com/watch?v=hk1rj17k2E0)
+
 ### Freestyle
 Обучалки:
-- [Anik FPV: Элемент ROLL или БОЧКА](https://www.youtube.com/watch?v=PPULpE2ydsY&list=PLEJ2G1j46oWLRY17bd60tV9VEAflXFPgl&index=57)
 - [Rotor Riot: FPV Freestyle Tricktionary!](https://youtu.be/n6RX8iI6gcQ)
 - [Joshua Bardwell: How To 10 FPV Freestyle Tricks](https://youtu.be/0EqJ9C8KuTQ)
 - [headmazta](https://www.youtube.com/c/headmazta)
+
+Список трюков:
+- ROLL(Бочка)
+- todo
 
 ### Как летать в Омске
 Читай закон <сюда можно ссыль и про штрафы написать>    
