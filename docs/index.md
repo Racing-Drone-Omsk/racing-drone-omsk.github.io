@@ -44,8 +44,8 @@ Freestyle, по фристайлу смотри ссылки в разделе �
 
 ### Freestyle
 Обучалки:
-- [Rotor Riot: FPV Freestyle Tricktionary!](https://youtu.be/n6RX8iI6gcQ)
 - [Joshua Bardwell: How To 10 FPV Freestyle Tricks](https://youtu.be/0EqJ9C8KuTQ)
+- [Rotor Riot: FPV Freestyle Tricktionary!](https://youtu.be/n6RX8iI6gcQ)
 - [headmazta](https://www.youtube.com/c/headmazta)
 
 Список трюков:
