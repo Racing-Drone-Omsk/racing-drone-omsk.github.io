@@ -43,11 +43,47 @@ Freestyle, по фристайлу смотри ссылки в разделе �
 - [Учимся фристайлить. Уровень I. Полет в инверте и S-Split. Тонкости и советы] (https://www.youtube.com/watch?v=hk1rj17k2E0)
 
 ### Freestyle
+
 Обучалки:
 - [Joshua Bardwell: How To 10 FPV Freestyle Tricks](https://youtu.be/0EqJ9C8KuTQ)
 - [Rotor Riot: FPV Freestyle Tricktionary!](https://youtu.be/n6RX8iI6gcQ)
 - [Неделя обучения по предыдущему видео от Rotor Riot](https://www.youtube.com/watch?v=GlCgarOgtiY)
 - [headmazta](https://www.youtube.com/c/headmazta)
+
+#### Tricktionary
+Basic:
+- Roll
+- Flip
+- Yaw spin
+- Barrel Roll
+- Loop
+
+Open Air:
+- Rubiks Cube
+- Juicy Flick
+- Throwback
+- Inverted Yaw
+- Stall
+- Vanny Roll
+
+Object Based:
+- Gaps
+- Power Loop
+- Orbit
+- Split S
+- Immelman
+- Matly Flip
+- Trippy Spin
+- Dive
+- Wall Ride
+- Reverse Wall Ride
+- Backwards Dive
+
+Contact:
+- Bank
+- Grind
+- Perch
+
 
 Список трюков:
 - ROLL(Бочка) - переворот коптера осью roll с убранным trottle
