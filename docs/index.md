@@ -3,8 +3,6 @@ title: FPV Racing Drone Omsk
 layout: default
 ---
 
-{% include nav.html nav=page.nav %}
-
 ## Racing Drone Omsk
 Добро пожаловать на сайт омского сообщества FPV "Racing Drone Omsk".
 Тут ты сможешь узнать об омском FPV сообществе, а так же найти полезную информацию об FPV.
@@ -116,3 +114,6 @@ Contact:
 - [aliexpress](https://aliexpress.ru/)
 - [banggood](https://www.banggood.com/)
 - [Воздушное хобби](https://air-hobby.ru/) - тут бывает делаем заказ на всех, тогда со скидкой выходит хорошая цена
+
+## Wiki
+https://github.com/Racing-Drone-Omsk/racing-drone-omsk.github.io/wiki
