@@ -39,7 +39,7 @@ AnikFPV:
 Freestyle, по фристайлу смотри ссылки в разделе ниже:
 - [Учимся фристайлить. Уровень I. Элемент ROLL или БОЧКА. Тонкости и советы](https://www.youtube.com/watch?v=PPULpE2ydsY)
 - [Учимся фристайлить. Уровень I. Элемент FLIP или Переворот. Тонкости и советы](https://www.youtube.com/watch?v=8n5ufN0Dtrg)
-- [Учимся фристайлить. Уровень I. Полет в инверте и S-Split. Тонкости и советы] (https://www.youtube.com/watch?v=hk1rj17k2E0)
+- [Учимся фристайлить. Уровень I. Полет в инверте и S-Split. Тонкости и советы](https://www.youtube.com/watch?v=hk1rj17k2E0)
 
 ### Freestyle
 
